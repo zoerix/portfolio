@@ -228,6 +228,7 @@
 
  .about-social {
      text-decoration: none;
+     color: crimson;
  }
 
  .about-social:visited {
@@ -593,7 +594,7 @@ background-color: beige;
 
  /*FOOTER ONE 4 ALL*/
  footer {
-     margin-top: 2em;
+     margin-top: 5em;
      margin-bottom: 2em;
      margin-left: 30%;
      margin-right: 30%;
@@ -936,8 +937,8 @@ background-color: beige;
      .footer-contact {
          position: absolute;
          bottom: 0;
-         left: 30%;
-         right: 30%;
+         /* left: 30%;
+         right: 30%; */
          /* margin-top: 100px; */
          /* margin-bottom:1em ; */
          color: #F0B2AB;
@@ -949,3 +950,12 @@ background-color: beige;
      }
 
  }
+/* 
+ .footer-about {
+   border: 3px solid red;
+    margin-top: 15px;
+    
+    /* margin-left: 30%;
+    margin-right: 30%; */
+  
+} */

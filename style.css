@@ -54,14 +54,14 @@
 
 
  } */
-
+/* 
  .nav ul {
      display: flex;
      justify-content: space-around;
      list-style: none;
      flex-direction: column;
      padding: 1em;
- }
+ } */
 
  /* .navlink {
      margin: 3em;
@@ -116,6 +116,7 @@
      text-decoration: none;
      padding: 2em;
      font-size: 50px;
+     color: rgb(227, 156, 85);;
      text-shadow: rgb(211, 202, 183) 5px 10px;
      border: 2px solid rgb(227, 156, 85);
      border-radius: 50%;
@@ -222,7 +223,7 @@
      text-decoration: none;
  }
 
- ..about-social:visited {
+ .about-social:visited {
      color: darkred;
  }
 

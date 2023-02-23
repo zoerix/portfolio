@@ -116,7 +116,7 @@
      text-decoration: none;
      padding: 2em;
      font-size: 50px;
-     color: rgb(227, 156, 85);;
+     color: rgb(227, 156, 85);
      text-shadow: rgb(211, 202, 183) 5px 10px;
      border: 2px solid rgb(227, 156, 85);
      border-radius: 50%;
@@ -138,6 +138,8 @@
      background-position: left center;
      background-size: cover;
      transform: scale(0.7);
+     color: rgb(227, 156, 85);
+
  }
 
  .c1:hover {
@@ -153,12 +155,16 @@
      background-image: url(./img/legblackwhite1.jpg);
      background-position: -115px -150px;
      transform: scale(0.7);
+     color: rgb(227, 156, 85);
+
  }
 
  .c2:hover {
      background-image: url(./img/skecthblackwhite.jpg);
      background-position: center;
      transform: scale(1);
+     
+
  }
 
  .c3 {
@@ -166,6 +172,7 @@
      background-position: center;
      background-size: cover;
      transform: scale(0.7);
+     color: rgb(227, 156, 85);
  }
 
  .c3:hover {
